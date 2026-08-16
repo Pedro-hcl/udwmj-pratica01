@@ -1,0 +1,37 @@
+
+
+
+h1 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-shadow: 1px 1px 2px black;
+    letter-spacing: 5px;
+}
+
+.primeiro {
+    color: rgb(0, 217, 255);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    text-shadow: 1px 1px 1px black;
+}
+
+.segundo {
+    color: rgb(0, 255, 13);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 1px 1px 1px black;
+    
+}
+
+.terceiro {
+    color: rgb(183, 0, 255);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'playfair display', sans-serif;
+    text-shadow: 1px 1px 1px black;
+    
+}
